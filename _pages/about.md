@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Finance department at UCLA's Anderson School of Management since Fall 2023. Before that, I was a junior research scientist at NYU Stern's Finance department and a graduate of the Master's in Mathematics in Finance program from NYU Courant. 
 
-I'm interested in asset pricing broadly, with recent focus on market microstructure, crypto-currency and decentralized exchanges. 
+I'm interested in asset pricing broadly, with recent focus on market microstructure, decentralized exchanges and the effect of transparency on execution and market quality. 
 
 -------
 I play a little guitar and keyboard on the side, and dabble in pop-singing.  
